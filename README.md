@@ -1,11 +1,17 @@
 # Awesome RL/SFT for Multimodal Large Language Models (Geometric Reasoning)
 ## Survey
 
+
+## Datasets
+
+- <a name="todo"></a> Inter-GPS: Interpretable Geometry Problem Solving with Formal Language and Symbolic Reasoning (**ACL 2021**) [[paper](https://arxiv.org/pdf/2105.04165)][[[code](https://github.com/callsys/GMPO)]](https://github.com/lupantech/InterGPS)
+
 ## Papers
 
 ### 2025
-- <a name="todo"></a> Geometric-Mean Policy Optimization (GMPO) (**arXiv 2025**) [[paper](https://arxiv.org/pdf/2507.20673)][[code](https://github.com/callsys/GMPO)]
 - <a name="todo"></a> Pi-GPS: Enhancing Geometry Problem Solving by Unleashing the Power of Diagrammatic Information (**arXiv 2025**) [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_E-GPS_Explainable_Geometry_Problem_Solving_via_Top-Down_Solver_and_Bottom-Up_CVPR_2024_paper.pdf)]
+
+- <a name="todo"></a> REVERSE CHAIN-OF-THOUGHT PROBLEM GENERATION FOR GEOMETRIC REASONING IN LARGE MULTIMODAL MODELS (R-CoT) (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2410.17885v2)][[code](https://github.com/dle666/R-CoT)]
 
 
 ### 2024
