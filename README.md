@@ -5,7 +5,7 @@
 ## Papers
 
 ### Algorithm
-- <a name="todo"></a> Geometric-Mean Policy Optimization (GMPO) (**arXiv 2025**) [[paper]([https://arxiv.org/pdf/2411.02564](https://arxiv.org/pdf/2507.20673))][[code]([https://github.com/mengcaopku/Continual-LLaVA?tab=readme-ov-file](https://github.com/callsys/GMPO))]
+- <a name="todo"></a> Geometric-Mean Policy Optimization (GMPO) (**arXiv 2025**) [[paper](https://arxiv.org/pdf/2507.20673)][[code](https://github.com/callsys/GMPO)]
 
 
 
